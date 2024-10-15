@@ -10,7 +10,8 @@ OVERVIEW OF THE PROJECT
 
 
 ![Screenshot (137)](https://github.com/user-attachments/assets/b7606d5b-3994-43ba-b2f3-b8dfe8740399)
-![Screenshot (136)](https://github.com/user-attachments/assets/b4a35621-58b7-44ff-9326-ef2e1c679c82
+
+ ![Screenshot (136)](https://github.com/user-attachments/assets/b4a35621-58b7-44ff-9326-ef2e1c679c82)
 
 The Temperature and Humidity Monitoring Project using a DHT Sensor involves creating a system to continuously measure and display temperature and humidity levels in an environment. The project typically uses the DHT11 or DHT22 sensor, which is known for its low cost and ease of use. Here’s a brief outline of the project:
 
